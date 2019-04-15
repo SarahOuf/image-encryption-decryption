@@ -1,0 +1,82 @@
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Sara\Downloads\PROJECTS\Algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Sara\Downloads\PROJECTS\Algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Sara\Downloads\PROJECTS\Algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Sara\Downloads\PROJECTS\Algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Sara\Downloads\PROJECTS\Algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Sara\Downloads\PROJECTS\Algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\PROJECTS\Algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Sara\Downloads\PROJECTS\Algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Sara\Downloads\PROJECTS\Algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+D:\Downloads\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\Downloads\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\Downloads\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\Downloads\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\Downloads\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\Downloads\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\Downloads\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\Downloads\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Algorithms Analysis and Design\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Algorithms Analysis and Design\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Algorithms Analysis and Design\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Algorithms Analysis and Design\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Algorithms Analysis and Design\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Algorithms Analysis and Design\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Algorithms Analysis and Design\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Algorithms Analysis and Design\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Sara\Downloads\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Sara\Downloads\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Sara\Downloads\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Downloads\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Sara\Downloads\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Sara\Downloads\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Sara\Downloads\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Sara\Downloads\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Sara\Downloads\PROJECTS\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Sara\Downloads\PROJECTS\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Sara\Downloads\PROJECTS\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Downloads\PROJECTS\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Sara\Downloads\PROJECTS\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Sara\Downloads\PROJECTS\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Sara\Downloads\PROJECTS\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\PROJECTS\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Sara\Downloads\PROJECTS\ALGO PROJECT\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+F:\Rehab\Downloads\Algorithm Project\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+F:\Rehab\Downloads\Algorithm Project\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+F:\Rehab\Downloads\Algorithm Project\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+F:\Rehab\Downloads\Algorithm Project\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+F:\Rehab\Downloads\Algorithm Project\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+F:\Rehab\Downloads\Algorithm Project\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+F:\Rehab\Downloads\Algorithm Project\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+F:\Rehab\Downloads\Algorithm Project\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Sarah\School\Year 3\Algorithms\Optimized Algo Project(with bonus)\Optimized Algo Project(with bonus)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
